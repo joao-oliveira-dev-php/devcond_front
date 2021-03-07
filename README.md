@@ -36,6 +36,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ Core Ui Admin
 
+- ✔️ Chart.js
+
+- ✔️ Routes
+
 - ✔️ Laravel
 
 ## ⚙ Configuração
