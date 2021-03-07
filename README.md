@@ -43,7 +43,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ Routes
 
-- ✔️ Laravel
 
 ## ⚙ Configuração
 
