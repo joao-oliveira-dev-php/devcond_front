@@ -1,6 +1,6 @@
 <h1 align="center">:house_with_garden: DevsCond Front :house_with_garden:</h1>
 
-<p align="center">O Devscont Front se trata da versão front-end do sistema de gerenciamento de condominio, com o back-end feito em laravel.</p>
+<p align="center">O Devscond Front se trata da versão front-end do sistema de gerenciamento de condominio, com o back-end feito em laravel.</p>
 
 ## :camera: Demonstração
 
